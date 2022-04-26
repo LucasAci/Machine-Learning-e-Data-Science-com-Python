@@ -1,6 +1,6 @@
 # Machine-Learning-e-Data-Science-com-Python
 
-__Curso realizado na Udemy, dividido em 5 partes:__
+__Curso realizado na Udemy, subdividido em 5 partes:__
 
 **1. Classificação** - pré-processamento dos dados, naïve bayes, árvores de decisão, random forest, regras, regressão logística, máquinas de vetores de suporte (SVM), redes neurais artificiais, avaliação de algoritmos e combinação e rejeição de classificadores.
 
