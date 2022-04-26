@@ -1,4 +1,4 @@
-# Machine-Learning-e-Data-Science-com-Python
+# Machine Learning e Data Science com Python
 
 __Curso realizado na Udemy, subdividido em 5 partes:__
 
